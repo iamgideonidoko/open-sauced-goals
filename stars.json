@@ -1,45 +1,45 @@
 [
   {
     "full_name": "pmndrs/zustand",
-    "stargazers_count": 22784,
-    "open_issues_count": 19,
-    "forks_count": 678
+    "stargazers_count": 22931,
+    "open_issues_count": 18,
+    "forks_count": 682
   },
   {
     "full_name": "novuhq/novu",
-    "stargazers_count": 10844,
-    "open_issues_count": 128,
-    "forks_count": 673
+    "stargazers_count": 11617,
+    "open_issues_count": 139,
+    "forks_count": 722
   },
   {
     "full_name": "CynthiaPeter/Technical-Writing-Resources",
     "stargazers_count": 162,
     "open_issues_count": 1,
-    "forks_count": 36
+    "forks_count": 37
   },
   {
     "full_name": "dataarts/dat.gui",
-    "stargazers_count": 6477,
+    "stargazers_count": 6486,
     "open_issues_count": 103,
-    "forks_count": 1062
+    "forks_count": 1063
   },
   {
     "full_name": "jondot/awesome-react-native",
-    "stargazers_count": 32027,
+    "stargazers_count": 32044,
     "open_issues_count": 64,
-    "forks_count": 3917
+    "forks_count": 3918
   },
   {
     "full_name": "sindresorhus/awesome-electron",
-    "stargazers_count": 23521,
+    "stargazers_count": 23545,
     "open_issues_count": 3,
-    "forks_count": 1958
+    "forks_count": 1960
   },
   {
     "full_name": "prisma/prisma",
-    "stargazers_count": 26356,
-    "open_issues_count": 2349,
-    "forks_count": 939
+    "stargazers_count": 26436,
+    "open_issues_count": 2358,
+    "forks_count": 943
   },
   {
     "full_name": "IamGideonIdoko/linassess",
@@ -49,33 +49,33 @@
   },
   {
     "full_name": "spatie/crawler",
-    "stargazers_count": 2233,
+    "stargazers_count": 2235,
     "open_issues_count": 2,
     "forks_count": 335
   },
   {
     "full_name": "googleapis/release-please",
-    "stargazers_count": 1638,
-    "open_issues_count": 68,
-    "forks_count": 187
+    "stargazers_count": 1648,
+    "open_issues_count": 72,
+    "forks_count": 188
   },
   {
     "full_name": "jherr/nextjs-state-management",
-    "stargazers_count": 134,
+    "stargazers_count": 135,
     "open_issues_count": 0,
-    "forks_count": 54
+    "forks_count": 55
   },
   {
     "full_name": "FrancescoXX/free-Web3-resources",
-    "stargazers_count": 2779,
-    "open_issues_count": 16,
-    "forks_count": 386
+    "stargazers_count": 2802,
+    "open_issues_count": 19,
+    "forks_count": 387
   },
   {
     "full_name": "vysecurity/LinkedInt",
-    "stargazers_count": 809,
+    "stargazers_count": 812,
     "open_issues_count": 19,
-    "forks_count": 158
+    "forks_count": 160
   },
   {
     "full_name": "KaranJagtiani/MERN-Docker-Production-Boilerplate",
@@ -85,21 +85,21 @@
   },
   {
     "full_name": "facundoolano/software-papers",
-    "stargazers_count": 3118,
+    "stargazers_count": 3124,
     "open_issues_count": 0,
-    "forks_count": 122
+    "forks_count": 121
   },
   {
     "full_name": "pocketbase/pocketbase",
-    "stargazers_count": 15000,
-    "open_issues_count": 45,
-    "forks_count": 518
+    "stargazers_count": 15060,
+    "open_issues_count": 47,
+    "forks_count": 520
   },
   {
     "full_name": "donnemartin/system-design-primer",
-    "stargazers_count": 200472,
-    "open_issues_count": 334,
-    "forks_count": 36079
+    "stargazers_count": 200913,
+    "open_issues_count": 336,
+    "forks_count": 36162
   },
   {
     "full_name": "oscafrica/awesome-open-source",
@@ -121,49 +121,49 @@
   },
   {
     "full_name": "dragonflydb/dragonfly",
-    "stargazers_count": 15246,
-    "open_issues_count": 52,
-    "forks_count": 471
+    "stargazers_count": 15462,
+    "open_issues_count": 57,
+    "forks_count": 481
   },
   {
     "full_name": "mgramin/awesome-db-tools",
-    "stargazers_count": 2361,
-    "open_issues_count": 90,
+    "stargazers_count": 2370,
+    "open_issues_count": 91,
     "forks_count": 189
   },
   {
     "full_name": "dharmelolar/technical-writing-resources",
-    "stargazers_count": 87,
+    "stargazers_count": 88,
     "open_issues_count": 2,
     "forks_count": 26
   },
   {
     "full_name": "WPBP/WordPress-Plugin-Boilerplate-Powered",
-    "stargazers_count": 597,
+    "stargazers_count": 596,
     "open_issues_count": 6,
     "forks_count": 92
   },
   {
     "full_name": "brunosimon/my-room-in-3d",
-    "stargazers_count": 2048,
+    "stargazers_count": 2053,
     "open_issues_count": 8,
-    "forks_count": 248
+    "forks_count": 249
   },
   {
     "full_name": "sdras/awesome-actions",
-    "stargazers_count": 19866,
-    "open_issues_count": 106,
-    "forks_count": 1284
+    "stargazers_count": 19911,
+    "open_issues_count": 100,
+    "forks_count": 1286
   },
   {
     "full_name": "spo0ds/Journey-to-become-a-Blockchain-Engineer",
-    "stargazers_count": 500,
+    "stargazers_count": 505,
     "open_issues_count": 2,
     "forks_count": 136
   },
   {
     "full_name": "lissanh95/operator-mono-lig-1",
-    "stargazers_count": 61,
+    "stargazers_count": 62,
     "open_issues_count": 0,
     "forks_count": 34
   },
