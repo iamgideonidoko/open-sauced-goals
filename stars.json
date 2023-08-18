@@ -7,39 +7,39 @@
   },
   {
     "full_name": "LaniJ/invoice-dragon",
-    "stargazers_count": 611,
+    "stargazers_count": 617,
     "open_issues_count": 11,
     "forks_count": 43
   },
   {
     "full_name": "ektogamat/threejs-andy-boilerplate",
-    "stargazers_count": 638,
+    "stargazers_count": 639,
     "open_issues_count": 0,
     "forks_count": 114
   },
   {
     "full_name": "tc39/proposal-optional-chaining-assignment",
-    "stargazers_count": 128,
+    "stargazers_count": 129,
     "open_issues_count": 4,
     "forks_count": 1
   },
   {
     "full_name": "atulmy/fullstack-javascript-architecture",
-    "stargazers_count": 653,
+    "stargazers_count": 654,
     "open_issues_count": 0,
-    "forks_count": 175
+    "forks_count": 177
   },
   {
     "full_name": "gibbok/typescript-book",
-    "stargazers_count": 6835,
+    "stargazers_count": 6873,
     "open_issues_count": 2,
-    "forks_count": 503
+    "forks_count": 507
   },
   {
     "full_name": "langchain-ai/langchain",
-    "stargazers_count": 58585,
-    "open_issues_count": 2596,
-    "forks_count": 7848
+    "stargazers_count": 59038,
+    "open_issues_count": 2673,
+    "forks_count": 7946
   },
   {
     "full_name": "mykeels/rest-api-ioc-demo",
@@ -49,13 +49,13 @@
   },
   {
     "full_name": "pvarentsov/typescript-clean-architecture",
-    "stargazers_count": 1168,
+    "stargazers_count": 1172,
     "open_issues_count": 2,
     "forks_count": 153
   },
   {
     "full_name": "charlax/professional-programming",
-    "stargazers_count": 23758,
+    "stargazers_count": 23770,
     "open_issues_count": 4,
     "forks_count": 2043
   },
@@ -63,19 +63,19 @@
     "full_name": "hnasr/javascript_playground",
     "stargazers_count": 952,
     "open_issues_count": 37,
-    "forks_count": 935
+    "forks_count": 937
   },
   {
     "full_name": "OpesanyaAdebayo/systems-design",
     "stargazers_count": 879,
     "open_issues_count": 0,
-    "forks_count": 194
+    "forks_count": 195
   },
   {
     "full_name": "donnemartin/system-design-primer",
-    "stargazers_count": 226943,
+    "stargazers_count": 227175,
     "open_issues_count": 388,
-    "forks_count": 40111
+    "forks_count": 40141
   },
   {
     "full_name": "reaktor/tips-for-ppl-who-want-to-learn",
@@ -85,39 +85,39 @@
   },
   {
     "full_name": "freeCodeCamp/how-to-contribute-to-open-source",
-    "stargazers_count": 7983,
-    "open_issues_count": 69,
-    "forks_count": 1704
+    "stargazers_count": 7997,
+    "open_issues_count": 68,
+    "forks_count": 1706
   },
   {
     "full_name": "Nutlope/aicommits",
-    "stargazers_count": 5779,
-    "open_issues_count": 47,
-    "forks_count": 251
+    "stargazers_count": 5784,
+    "open_issues_count": 48,
+    "forks_count": 252
   },
   {
     "full_name": "ai/nanoid",
-    "stargazers_count": 21414,
+    "stargazers_count": 21434,
     "open_issues_count": 8,
-    "forks_count": 761
+    "forks_count": 763
   },
   {
     "full_name": "iBotPeaches/Apktool",
-    "stargazers_count": 16998,
-    "open_issues_count": 44,
-    "forks_count": 3440
+    "stargazers_count": 17026,
+    "open_issues_count": 45,
+    "forks_count": 3444
   },
   {
     "full_name": "semantic-release/semantic-release",
-    "stargazers_count": 18432,
-    "open_issues_count": 328,
-    "forks_count": 1748
+    "stargazers_count": 18460,
+    "open_issues_count": 327,
+    "forks_count": 1749
   },
   {
     "full_name": "santiq/bulletproof-nodejs",
-    "stargazers_count": 5177,
+    "stargazers_count": 5176,
     "open_issues_count": 69,
-    "forks_count": 1149
+    "forks_count": 1151
   },
   {
     "full_name": "WimJongeneel/ts-workerpool",
@@ -127,7 +127,7 @@
   },
   {
     "full_name": "BuilderIO/partytown",
-    "stargazers_count": 11705,
+    "stargazers_count": 11715,
     "open_issues_count": 99,
     "forks_count": 363
   },
@@ -139,9 +139,9 @@
   },
   {
     "full_name": "chidiwilliams/buzz",
-    "stargazers_count": 6980,
-    "open_issues_count": 51,
-    "forks_count": 511
+    "stargazers_count": 7014,
+    "open_issues_count": 55,
+    "forks_count": 512
   },
   {
     "full_name": "assaf/zombie",
@@ -157,26 +157,26 @@
   },
   {
     "full_name": "pmndrs/zustand",
-    "stargazers_count": 34012,
+    "stargazers_count": 34125,
     "open_issues_count": 5,
-    "forks_count": 1053
+    "forks_count": 1056
   },
   {
     "full_name": "novuhq/novu",
-    "stargazers_count": 22543,
-    "open_issues_count": 233,
-    "forks_count": 1551
+    "stargazers_count": 22831,
+    "open_issues_count": 231,
+    "forks_count": 1576
   },
   {
     "full_name": "CynthiaPeter/Technical-Writing-Resources",
-    "stargazers_count": 545,
+    "stargazers_count": 551,
     "open_issues_count": 5,
     "forks_count": 119
   },
   {
     "full_name": "dataarts/dat.gui",
-    "stargazers_count": 6947,
+    "stargazers_count": 6954,
     "open_issues_count": 107,
-    "forks_count": 1092
+    "forks_count": 1097
   }
 ]
