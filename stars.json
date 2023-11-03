@@ -1,7 +1,7 @@
 [
   {
     "full_name": "mykeels/x-microfrontends",
-    "stargazers_count": 32,
+    "stargazers_count": 33,
     "open_issues_count": 1,
     "forks_count": 8
   },
@@ -13,20 +13,20 @@
   },
   {
     "full_name": "oven-sh/bun",
-    "stargazers_count": 64954,
-    "open_issues_count": 1792,
-    "forks_count": 2012
+    "stargazers_count": 65058,
+    "open_issues_count": 1814,
+    "forks_count": 2023
   },
   {
     "full_name": "BuilderIO/mitosis",
-    "stargazers_count": 9865,
+    "stargazers_count": 9878,
     "open_issues_count": 153,
     "forks_count": 415
   },
   {
     "full_name": "lukeautry/tsoa",
-    "stargazers_count": 2921,
-    "open_issues_count": 113,
+    "stargazers_count": 2924,
+    "open_issues_count": 110,
     "forks_count": 455
   },
   {
@@ -37,19 +37,19 @@
   },
   {
     "full_name": "LaniJ/invoice-dragon",
-    "stargazers_count": 649,
+    "stargazers_count": 651,
     "open_issues_count": 10,
     "forks_count": 50
   },
   {
     "full_name": "ektogamat/threejs-andy-boilerplate",
-    "stargazers_count": 654,
+    "stargazers_count": 656,
     "open_issues_count": 0,
     "forks_count": 120
   },
   {
     "full_name": "tc39/proposal-optional-chaining-assignment",
-    "stargazers_count": 145,
+    "stargazers_count": 146,
     "open_issues_count": 5,
     "forks_count": 1
   },
@@ -57,19 +57,19 @@
     "full_name": "atulmy/fullstack-javascript-architecture",
     "stargazers_count": 664,
     "open_issues_count": 0,
-    "forks_count": 203
+    "forks_count": 205
   },
   {
     "full_name": "gibbok/typescript-book",
-    "stargazers_count": 7490,
+    "stargazers_count": 7498,
     "open_issues_count": 2,
-    "forks_count": 549
+    "forks_count": 551
   },
   {
     "full_name": "langchain-ai/langchain",
-    "stargazers_count": 66180,
+    "stargazers_count": 66793,
     "open_issues_count": 2047,
-    "forks_count": 9513
+    "forks_count": 9611
   },
   {
     "full_name": "mykeels/rest-api-ioc-demo",
@@ -85,13 +85,13 @@
   },
   {
     "full_name": "charlax/professional-programming",
-    "stargazers_count": 23970,
+    "stargazers_count": 23975,
     "open_issues_count": 2,
     "forks_count": 2051
   },
   {
     "full_name": "hnasr/javascript_playground",
-    "stargazers_count": 975,
+    "stargazers_count": 977,
     "open_issues_count": 37,
     "forks_count": 958
   },
@@ -103,49 +103,49 @@
   },
   {
     "full_name": "donnemartin/system-design-primer",
-    "stargazers_count": 233572,
+    "stargazers_count": 234112,
     "open_issues_count": 395,
-    "forks_count": 40954
+    "forks_count": 41023
   },
   {
     "full_name": "reaktor/tips-for-ppl-who-want-to-learn",
-    "stargazers_count": 425,
+    "stargazers_count": 426,
     "open_issues_count": 1,
     "forks_count": 55
   },
   {
     "full_name": "freeCodeCamp/how-to-contribute-to-open-source",
-    "stargazers_count": 8189,
+    "stargazers_count": 8200,
     "open_issues_count": 81,
-    "forks_count": 1748
+    "forks_count": 1749
   },
   {
     "full_name": "Nutlope/aicommits",
-    "stargazers_count": 6533,
-    "open_issues_count": 55,
-    "forks_count": 285
+    "stargazers_count": 6547,
+    "open_issues_count": 56,
+    "forks_count": 284
   },
   {
     "full_name": "ai/nanoid",
-    "stargazers_count": 21903,
+    "stargazers_count": 21921,
     "open_issues_count": 7,
     "forks_count": 779
   },
   {
     "full_name": "iBotPeaches/Apktool",
-    "stargazers_count": 17575,
+    "stargazers_count": 17599,
     "open_issues_count": 53,
-    "forks_count": 3496
+    "forks_count": 3498
   },
   {
     "full_name": "semantic-release/semantic-release",
-    "stargazers_count": 18838,
-    "open_issues_count": 338,
+    "stargazers_count": 18851,
+    "open_issues_count": 342,
     "forks_count": 1773
   },
   {
     "full_name": "santiq/bulletproof-nodejs",
-    "stargazers_count": 5223,
+    "stargazers_count": 5227,
     "open_issues_count": 69,
     "forks_count": 1172
   },
@@ -157,8 +157,8 @@
   },
   {
     "full_name": "BuilderIO/partytown",
-    "stargazers_count": 11994,
-    "open_issues_count": 113,
+    "stargazers_count": 11999,
+    "open_issues_count": 111,
     "forks_count": 374
   },
   {
@@ -169,13 +169,13 @@
   },
   {
     "full_name": "chidiwilliams/buzz",
-    "stargazers_count": 7793,
-    "open_issues_count": 70,
-    "forks_count": 572
+    "stargazers_count": 7837,
+    "open_issues_count": 71,
+    "forks_count": 576
   },
   {
     "full_name": "assaf/zombie",
-    "stargazers_count": 5663,
+    "stargazers_count": 5661,
     "open_issues_count": 202,
     "forks_count": 556
   }
