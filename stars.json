@@ -1,13 +1,13 @@
 [
   {
     "full_name": "livekit/livekit",
-    "stargazers_count": 7223,
-    "open_issues_count": 99,
-    "forks_count": 609
+    "stargazers_count": 7534,
+    "open_issues_count": 103,
+    "forks_count": 622
   },
   {
     "full_name": "mykeels/x-microfrontends",
-    "stargazers_count": 47,
+    "stargazers_count": 48,
     "open_issues_count": 1,
     "forks_count": 9
   },
@@ -19,20 +19,20 @@
   },
   {
     "full_name": "oven-sh/bun",
-    "stargazers_count": 70964,
-    "open_issues_count": 3170,
-    "forks_count": 2463
+    "stargazers_count": 71032,
+    "open_issues_count": 3142,
+    "forks_count": 2464
   },
   {
     "full_name": "BuilderIO/mitosis",
-    "stargazers_count": 11029,
-    "open_issues_count": 173,
-    "forks_count": 478
+    "stargazers_count": 11053,
+    "open_issues_count": 169,
+    "forks_count": 479
   },
   {
     "full_name": "lukeautry/tsoa",
-    "stargazers_count": 3146,
-    "open_issues_count": 113,
+    "stargazers_count": 3147,
+    "open_issues_count": 112,
     "forks_count": 472
   },
   {
@@ -67,15 +67,15 @@
   },
   {
     "full_name": "gibbok/typescript-book",
-    "stargazers_count": 8252,
+    "stargazers_count": 8255,
     "open_issues_count": 3,
-    "forks_count": 512
+    "forks_count": 511
   },
   {
     "full_name": "langchain-ai/langchain",
-    "stargazers_count": 84751,
-    "open_issues_count": 1281,
-    "forks_count": 13093
+    "stargazers_count": 85007,
+    "open_issues_count": 1268,
+    "forks_count": 13140
   },
   {
     "full_name": "mykeels/rest-api-ioc-demo",
@@ -85,33 +85,33 @@
   },
   {
     "full_name": "pvarentsov/typescript-clean-architecture",
-    "stargazers_count": 1323,
+    "stargazers_count": 1324,
     "open_issues_count": 2,
     "forks_count": 173
   },
   {
     "full_name": "charlax/professional-programming",
-    "stargazers_count": 45415,
+    "stargazers_count": 45439,
     "open_issues_count": 2,
-    "forks_count": 3618
+    "forks_count": 3620
   },
   {
     "full_name": "hnasr/javascript_playground",
-    "stargazers_count": 1041,
+    "stargazers_count": 1040,
     "open_issues_count": 39,
-    "forks_count": 942
+    "forks_count": 943
   },
   {
     "full_name": "OpesanyaAdebayo/systems-design",
-    "stargazers_count": 951,
+    "stargazers_count": 952,
     "open_issues_count": 0,
     "forks_count": 208
   },
   {
     "full_name": "donnemartin/system-design-primer",
-    "stargazers_count": 257066,
+    "stargazers_count": 257403,
     "open_issues_count": 426,
-    "forks_count": 43831
+    "forks_count": 43875
   },
   {
     "full_name": "reaktor/tips-for-ppl-who-want-to-learn",
@@ -121,37 +121,37 @@
   },
   {
     "full_name": "freeCodeCamp/how-to-contribute-to-open-source",
-    "stargazers_count": 8538,
+    "stargazers_count": 8546,
     "open_issues_count": 73,
-    "forks_count": 1782
+    "forks_count": 1781
   },
   {
     "full_name": "Nutlope/aicommits",
-    "stargazers_count": 7427,
+    "stargazers_count": 7433,
     "open_issues_count": 69,
     "forks_count": 347
   },
   {
     "full_name": "ai/nanoid",
-    "stargazers_count": 23457,
+    "stargazers_count": 23486,
     "open_issues_count": 6,
     "forks_count": 762
   },
   {
     "full_name": "iBotPeaches/Apktool",
-    "stargazers_count": 19007,
+    "stargazers_count": 19028,
     "open_issues_count": 67,
-    "forks_count": 3519
+    "forks_count": 3520
   },
   {
     "full_name": "semantic-release/semantic-release",
-    "stargazers_count": 19878,
-    "open_issues_count": 353,
-    "forks_count": 1646
+    "stargazers_count": 19892,
+    "open_issues_count": 354,
+    "forks_count": 1647
   },
   {
     "full_name": "santiq/bulletproof-nodejs",
-    "stargazers_count": 5359,
+    "stargazers_count": 5360,
     "open_issues_count": 69,
     "forks_count": 1150
   },
@@ -163,8 +163,8 @@
   },
   {
     "full_name": "BuilderIO/partytown",
-    "stargazers_count": 12714,
-    "open_issues_count": 123,
+    "stargazers_count": 12719,
+    "open_issues_count": 124,
     "forks_count": 414
   },
   {
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "chidiwilliams/buzz",
-    "stargazers_count": 10059,
-    "open_issues_count": 117,
-    "forks_count": 777
+    "stargazers_count": 10089,
+    "open_issues_count": 115,
+    "forks_count": 780
   }
 ]
