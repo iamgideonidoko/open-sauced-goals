@@ -1,45 +1,45 @@
 [
   {
     "full_name": "stevearc/oil.nvim",
-    "stargazers_count": 3394,
+    "stargazers_count": 3417,
     "open_issues_count": 60,
     "forks_count": 92
   },
   {
     "full_name": "privatenumber/tsx",
-    "stargazers_count": 8692,
+    "stargazers_count": 8725,
     "open_issues_count": 58,
-    "forks_count": 132
+    "forks_count": 133
   },
   {
     "full_name": "pachoclo/vite-threejs-ts-template",
-    "stargazers_count": 119,
-    "open_issues_count": 5,
+    "stargazers_count": 118,
+    "open_issues_count": 2,
     "forks_count": 15
   },
   {
-    "full_name": "IamGideonIdoko/bio-attendance-sys",
+    "full_name": "iamgideonidoko/bio-attendance-sys",
     "stargazers_count": 4,
     "open_issues_count": 0,
-    "forks_count": 5
+    "forks_count": 6
   },
   {
     "full_name": "expo/expo",
-    "stargazers_count": 31123,
-    "open_issues_count": 713,
-    "forks_count": 4929
+    "stargazers_count": 31223,
+    "open_issues_count": 710,
+    "forks_count": 4949
   },
   {
     "full_name": "ojroques/nvim-bufdel",
-    "stargazers_count": 161,
+    "stargazers_count": 160,
     "open_issues_count": 2,
     "forks_count": 4
   },
   {
     "full_name": "livekit/livekit",
-    "stargazers_count": 8995,
-    "open_issues_count": 108,
-    "forks_count": 723
+    "stargazers_count": 9027,
+    "open_issues_count": 99,
+    "forks_count": 728
   },
   {
     "full_name": "mykeels/x-microfrontends",
@@ -55,20 +55,20 @@
   },
   {
     "full_name": "oven-sh/bun",
-    "stargazers_count": 71912,
-    "open_issues_count": 3280,
-    "forks_count": 2559
+    "stargazers_count": 72028,
+    "open_issues_count": 3320,
+    "forks_count": 2576
   },
   {
     "full_name": "BuilderIO/mitosis",
-    "stargazers_count": 11888,
-    "open_issues_count": 176,
-    "forks_count": 518
+    "stargazers_count": 11972,
+    "open_issues_count": 178,
+    "forks_count": 524
   },
   {
     "full_name": "lukeautry/tsoa",
-    "stargazers_count": 3324,
-    "open_issues_count": 109,
+    "stargazers_count": 3333,
+    "open_issues_count": 104,
     "forks_count": 481
   },
   {
@@ -85,9 +85,9 @@
   },
   {
     "full_name": "ektogamat/threejs-andy-boilerplate",
-    "stargazers_count": 693,
+    "stargazers_count": 694,
     "open_issues_count": 0,
-    "forks_count": 127
+    "forks_count": 128
   },
   {
     "full_name": "tc39/proposal-optional-chaining-assignment",
@@ -99,19 +99,19 @@
     "full_name": "atulmy/fullstack-javascript-architecture",
     "stargazers_count": 691,
     "open_issues_count": 0,
-    "forks_count": 179
+    "forks_count": 180
   },
   {
     "full_name": "gibbok/typescript-book",
-    "stargazers_count": 8337,
+    "stargazers_count": 8343,
     "open_issues_count": 1,
-    "forks_count": 510
+    "forks_count": 509
   },
   {
     "full_name": "langchain-ai/langchain",
-    "stargazers_count": 88971,
-    "open_issues_count": 1121,
-    "forks_count": 14011
+    "stargazers_count": 89182,
+    "open_issues_count": 1102,
+    "forks_count": 14050
   },
   {
     "full_name": "mykeels/rest-api-ioc-demo",
@@ -121,33 +121,33 @@
   },
   {
     "full_name": "pvarentsov/typescript-clean-architecture",
-    "stargazers_count": 1360,
+    "stargazers_count": 1362,
     "open_issues_count": 2,
     "forks_count": 173
   },
   {
     "full_name": "charlax/professional-programming",
-    "stargazers_count": 45891,
+    "stargazers_count": 45928,
     "open_issues_count": 5,
-    "forks_count": 3656
+    "forks_count": 3663
   },
   {
     "full_name": "hnasr/javascript_playground",
-    "stargazers_count": 1049,
+    "stargazers_count": 1050,
     "open_issues_count": 39,
-    "forks_count": 947
+    "forks_count": 948
   },
   {
     "full_name": "OpesanyaAdebayo/systems-design",
-    "stargazers_count": 961,
+    "stargazers_count": 963,
     "open_issues_count": 0,
     "forks_count": 210
   },
   {
     "full_name": "donnemartin/system-design-primer",
-    "stargazers_count": 263958,
-    "open_issues_count": 435,
-    "forks_count": 44748
+    "stargazers_count": 264338,
+    "open_issues_count": 440,
+    "forks_count": 44793
   },
   {
     "full_name": "reaktor/tips-for-ppl-who-want-to-learn",
@@ -159,24 +159,24 @@
     "full_name": "freeCodeCamp/how-to-contribute-to-open-source",
     "stargazers_count": 8623,
     "open_issues_count": 63,
-    "forks_count": 1796
+    "forks_count": 1797
   },
   {
     "full_name": "Nutlope/aicommits",
-    "stargazers_count": 7538,
-    "open_issues_count": 71,
-    "forks_count": 360
+    "stargazers_count": 7546,
+    "open_issues_count": 72,
+    "forks_count": 361
   },
   {
     "full_name": "ai/nanoid",
-    "stargazers_count": 23931,
+    "stargazers_count": 23961,
     "open_issues_count": 7,
-    "forks_count": 778
+    "forks_count": 779
   },
   {
     "full_name": "iBotPeaches/Apktool",
-    "stargazers_count": 19396,
+    "stargazers_count": 19428,
     "open_issues_count": 69,
-    "forks_count": 3542
+    "forks_count": 3545
   }
 ]
