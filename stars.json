@@ -1,20 +1,20 @@
 [
   {
     "full_name": "stevearc/oil.nvim",
-    "stargazers_count": 3445,
-    "open_issues_count": 65,
+    "stargazers_count": 3456,
+    "open_issues_count": 63,
     "forks_count": 99
   },
   {
     "full_name": "privatenumber/tsx",
-    "stargazers_count": 8800,
-    "open_issues_count": 60,
-    "forks_count": 138
+    "stargazers_count": 8855,
+    "open_issues_count": 61,
+    "forks_count": 139
   },
   {
     "full_name": "pachoclo/vite-threejs-ts-template",
     "stargazers_count": 118,
-    "open_issues_count": 3,
+    "open_issues_count": 1,
     "forks_count": 15
   },
   {
@@ -25,9 +25,9 @@
   },
   {
     "full_name": "expo/expo",
-    "stargazers_count": 31382,
-    "open_issues_count": 714,
-    "forks_count": 4977
+    "stargazers_count": 31492,
+    "open_issues_count": 681,
+    "forks_count": 4992
   },
   {
     "full_name": "ojroques/nvim-bufdel",
@@ -37,8 +37,8 @@
   },
   {
     "full_name": "livekit/livekit",
-    "stargazers_count": 9072,
-    "open_issues_count": 96,
+    "stargazers_count": 9086,
+    "open_issues_count": 98,
     "forks_count": 735
   },
   {
@@ -55,19 +55,19 @@
   },
   {
     "full_name": "oven-sh/bun",
-    "stargazers_count": 72210,
-    "open_issues_count": 3382,
-    "forks_count": 2579
+    "stargazers_count": 72257,
+    "open_issues_count": 3412,
+    "forks_count": 2582
   },
   {
     "full_name": "BuilderIO/mitosis",
-    "stargazers_count": 12017,
+    "stargazers_count": 12031,
     "open_issues_count": 178,
-    "forks_count": 526
+    "forks_count": 527
   },
   {
     "full_name": "lukeautry/tsoa",
-    "stargazers_count": 3376,
+    "stargazers_count": 3382,
     "open_issues_count": 102,
     "forks_count": 484
   },
@@ -103,15 +103,15 @@
   },
   {
     "full_name": "gibbok/typescript-book",
-    "stargazers_count": 8345,
+    "stargazers_count": 8351,
     "open_issues_count": 1,
-    "forks_count": 511
+    "forks_count": 512
   },
   {
     "full_name": "langchain-ai/langchain",
-    "stargazers_count": 89576,
-    "open_issues_count": 992,
-    "forks_count": 14144
+    "stargazers_count": 89721,
+    "open_issues_count": 1008,
+    "forks_count": 14188
   },
   {
     "full_name": "mykeels/rest-api-ioc-demo",
@@ -121,15 +121,15 @@
   },
   {
     "full_name": "pvarentsov/typescript-clean-architecture",
-    "stargazers_count": 1364,
+    "stargazers_count": 1365,
     "open_issues_count": 2,
     "forks_count": 173
   },
   {
     "full_name": "charlax/professional-programming",
-    "stargazers_count": 45968,
+    "stargazers_count": 45983,
     "open_issues_count": 5,
-    "forks_count": 3673
+    "forks_count": 3677
   },
   {
     "full_name": "hnasr/javascript_playground",
@@ -139,44 +139,44 @@
   },
   {
     "full_name": "OpesanyaAdebayo/systems-design",
-    "stargazers_count": 965,
+    "stargazers_count": 966,
     "open_issues_count": 0,
     "forks_count": 210
   },
   {
     "full_name": "donnemartin/system-design-primer",
-    "stargazers_count": 265018,
+    "stargazers_count": 265265,
     "open_issues_count": 441,
-    "forks_count": 44888
+    "forks_count": 44924
   },
   {
     "full_name": "reaktor/tips-for-ppl-who-want-to-learn",
-    "stargazers_count": 449,
+    "stargazers_count": 450,
     "open_issues_count": 1,
     "forks_count": 57
   },
   {
     "full_name": "freeCodeCamp/how-to-contribute-to-open-source",
-    "stargazers_count": 8633,
+    "stargazers_count": 8638,
     "open_issues_count": 63,
-    "forks_count": 1795
+    "forks_count": 1793
   },
   {
     "full_name": "Nutlope/aicommits",
-    "stargazers_count": 7552,
+    "stargazers_count": 7566,
     "open_issues_count": 72,
-    "forks_count": 360
+    "forks_count": 361
   },
   {
     "full_name": "ai/nanoid",
-    "stargazers_count": 24009,
+    "stargazers_count": 24021,
     "open_issues_count": 7,
-    "forks_count": 785
+    "forks_count": 784
   },
   {
     "full_name": "iBotPeaches/Apktool",
-    "stargazers_count": 19478,
-    "open_issues_count": 72,
+    "stargazers_count": 19504,
+    "open_issues_count": 73,
     "forks_count": 3545
   }
 ]
