@@ -1,21 +1,21 @@
 [
   {
     "full_name": "xenova/transformers.js",
-    "stargazers_count": 11305,
-    "open_issues_count": 301,
-    "forks_count": 702
+    "stargazers_count": 11348,
+    "open_issues_count": 306,
+    "forks_count": 707
   },
   {
     "full_name": "nanostores/nanostores",
-    "stargazers_count": 5279,
+    "stargazers_count": 5293,
     "open_issues_count": 24,
     "forks_count": 109
   },
   {
     "full_name": "unclecode/crawl4ai",
-    "stargazers_count": 13536,
-    "open_issues_count": 34,
-    "forks_count": 949
+    "stargazers_count": 14002,
+    "open_issues_count": 36,
+    "forks_count": 982
   },
   {
     "full_name": "jankohlbach/real-world-shader",
@@ -25,20 +25,20 @@
   },
   {
     "full_name": "Dhravya/cloudflare-saas-stack",
-    "stargazers_count": 3024,
+    "stargazers_count": 3030,
     "open_issues_count": 4,
     "forks_count": 225
   },
   {
     "full_name": "stevearc/oil.nvim",
-    "stargazers_count": 3898,
-    "open_issues_count": 77,
+    "stargazers_count": 3912,
+    "open_issues_count": 76,
     "forks_count": 112
   },
   {
     "full_name": "privatenumber/tsx",
-    "stargazers_count": 9535,
-    "open_issues_count": 71,
+    "stargazers_count": 9551,
+    "open_issues_count": 73,
     "forks_count": 146
   },
   {
@@ -55,21 +55,21 @@
   },
   {
     "full_name": "expo/expo",
-    "stargazers_count": 33494,
-    "open_issues_count": 666,
-    "forks_count": 5354
+    "stargazers_count": 33582,
+    "open_issues_count": 669,
+    "forks_count": 5375
   },
   {
     "full_name": "ojroques/nvim-bufdel",
-    "stargazers_count": 168,
+    "stargazers_count": 170,
     "open_issues_count": 2,
     "forks_count": 4
   },
   {
     "full_name": "livekit/livekit",
-    "stargazers_count": 10105,
+    "stargazers_count": 10159,
     "open_issues_count": 103,
-    "forks_count": 835
+    "forks_count": 842
   },
   {
     "full_name": "mykeels/x-microfrontends",
@@ -85,21 +85,21 @@
   },
   {
     "full_name": "oven-sh/bun",
-    "stargazers_count": 73744,
-    "open_issues_count": 3796,
-    "forks_count": 2726
+    "stargazers_count": 73809,
+    "open_issues_count": 3818,
+    "forks_count": 2731
   },
   {
     "full_name": "BuilderIO/mitosis",
-    "stargazers_count": 12424,
-    "open_issues_count": 171,
-    "forks_count": 551
+    "stargazers_count": 12440,
+    "open_issues_count": 173,
+    "forks_count": 552
   },
   {
     "full_name": "lukeautry/tsoa",
-    "stargazers_count": 3487,
-    "open_issues_count": 110,
-    "forks_count": 498
+    "stargazers_count": 3492,
+    "open_issues_count": 109,
+    "forks_count": 499
   },
   {
     "full_name": "YouGoDevs/LeetcodeStudyGuide",
@@ -117,7 +117,7 @@
     "full_name": "ektogamat/threejs-andy-boilerplate",
     "stargazers_count": 708,
     "open_issues_count": 0,
-    "forks_count": 132
+    "forks_count": 133
   },
   {
     "full_name": "tc39/proposal-optional-chaining-assignment",
@@ -127,21 +127,21 @@
   },
   {
     "full_name": "atulmy/fullstack-javascript-architecture",
-    "stargazers_count": 698,
+    "stargazers_count": 699,
     "open_issues_count": 0,
     "forks_count": 178
   },
   {
     "full_name": "gibbok/typescript-book",
-    "stargazers_count": 8444,
+    "stargazers_count": 8445,
     "open_issues_count": 1,
     "forks_count": 520
   },
   {
     "full_name": "langchain-ai/langchain",
-    "stargazers_count": 93481,
-    "open_issues_count": 813,
-    "forks_count": 15052
+    "stargazers_count": 93626,
+    "open_issues_count": 798,
+    "forks_count": 15089
   },
   {
     "full_name": "mykeels/rest-api-ioc-demo",
@@ -151,19 +151,19 @@
   },
   {
     "full_name": "pvarentsov/typescript-clean-architecture",
-    "stargazers_count": 1402,
+    "stargazers_count": 1404,
     "open_issues_count": 2,
     "forks_count": 177
   },
   {
     "full_name": "charlax/professional-programming",
-    "stargazers_count": 46571,
+    "stargazers_count": 46596,
     "open_issues_count": 5,
-    "forks_count": 3712
+    "forks_count": 3713
   },
   {
     "full_name": "hnasr/javascript_playground",
-    "stargazers_count": 1061,
+    "stargazers_count": 1063,
     "open_issues_count": 38,
     "forks_count": 949
   },
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "donnemartin/system-design-primer",
-    "stargazers_count": 272483,
+    "stargazers_count": 272829,
     "open_issues_count": 472,
-    "forks_count": 45933
+    "forks_count": 45983
   }
 ]
