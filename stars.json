@@ -1,33 +1,33 @@
 [
   {
     "full_name": "kamranahmedse/driver.js",
-    "stargazers_count": 22763,
-    "open_issues_count": 82,
+    "stargazers_count": 22776,
+    "open_issues_count": 83,
     "forks_count": 1016
   },
   {
     "full_name": "maxwellito/vivus",
-    "stargazers_count": 15232,
+    "stargazers_count": 15240,
     "open_issues_count": 20,
     "forks_count": 1135
   },
   {
     "full_name": "huggingface/transformers.js",
-    "stargazers_count": 11581,
-    "open_issues_count": 289,
-    "forks_count": 715
+    "stargazers_count": 11715,
+    "open_issues_count": 292,
+    "forks_count": 731
   },
   {
     "full_name": "nanostores/nanostores",
-    "stargazers_count": 5314,
+    "stargazers_count": 5328,
     "open_issues_count": 24,
     "forks_count": 109
   },
   {
     "full_name": "unclecode/crawl4ai",
-    "stargazers_count": 14621,
-    "open_issues_count": 37,
-    "forks_count": 1018
+    "stargazers_count": 14882,
+    "open_issues_count": 44,
+    "forks_count": 1043
   },
   {
     "full_name": "jankohlbach/real-world-shader",
@@ -37,26 +37,26 @@
   },
   {
     "full_name": "Dhravya/cloudflare-saas-stack",
-    "stargazers_count": 3036,
+    "stargazers_count": 3042,
     "open_issues_count": 5,
-    "forks_count": 226
+    "forks_count": 228
   },
   {
     "full_name": "stevearc/oil.nvim",
-    "stargazers_count": 3945,
+    "stargazers_count": 3970,
     "open_issues_count": 80,
-    "forks_count": 117
+    "forks_count": 118
   },
   {
     "full_name": "privatenumber/tsx",
-    "stargazers_count": 9596,
-    "open_issues_count": 74,
-    "forks_count": 150
+    "stargazers_count": 9615,
+    "open_issues_count": 72,
+    "forks_count": 152
   },
   {
     "full_name": "pachoclo/vite-threejs-ts-template",
-    "stargazers_count": 133,
-    "open_issues_count": 0,
+    "stargazers_count": 134,
+    "open_issues_count": 1,
     "forks_count": 19
   },
   {
@@ -67,9 +67,9 @@
   },
   {
     "full_name": "expo/expo",
-    "stargazers_count": 33746,
-    "open_issues_count": 674,
-    "forks_count": 5410
+    "stargazers_count": 33852,
+    "open_issues_count": 686,
+    "forks_count": 5423
   },
   {
     "full_name": "ojroques/nvim-bufdel",
@@ -79,9 +79,9 @@
   },
   {
     "full_name": "livekit/livekit",
-    "stargazers_count": 10269,
-    "open_issues_count": 106,
-    "forks_count": 848
+    "stargazers_count": 10325,
+    "open_issues_count": 109,
+    "forks_count": 854
   },
   {
     "full_name": "mykeels/x-microfrontends",
@@ -97,19 +97,19 @@
   },
   {
     "full_name": "oven-sh/bun",
-    "stargazers_count": 73912,
-    "open_issues_count": 3888,
-    "forks_count": 2744
+    "stargazers_count": 73982,
+    "open_issues_count": 3908,
+    "forks_count": 2748
   },
   {
     "full_name": "BuilderIO/mitosis",
-    "stargazers_count": 12471,
+    "stargazers_count": 12487,
     "open_issues_count": 171,
-    "forks_count": 553
+    "forks_count": 554
   },
   {
     "full_name": "lukeautry/tsoa",
-    "stargazers_count": 3522,
+    "stargazers_count": 3538,
     "open_issues_count": 106,
     "forks_count": 499
   },
@@ -121,7 +121,7 @@
   },
   {
     "full_name": "LaniJ/invoice-dragon",
-    "stargazers_count": 698,
+    "stargazers_count": 699,
     "open_issues_count": 8,
     "forks_count": 54
   },
@@ -139,21 +139,21 @@
   },
   {
     "full_name": "atulmy/fullstack-javascript-architecture",
-    "stargazers_count": 698,
+    "stargazers_count": 700,
     "open_issues_count": 0,
     "forks_count": 179
   },
   {
     "full_name": "gibbok/typescript-book",
-    "stargazers_count": 8453,
+    "stargazers_count": 8463,
     "open_issues_count": 1,
     "forks_count": 522
   },
   {
     "full_name": "langchain-ai/langchain",
-    "stargazers_count": 93932,
-    "open_issues_count": 780,
-    "forks_count": 15137
+    "stargazers_count": 94072,
+    "open_issues_count": 793,
+    "forks_count": 15187
   },
   {
     "full_name": "mykeels/rest-api-ioc-demo",
@@ -163,19 +163,19 @@
   },
   {
     "full_name": "pvarentsov/typescript-clean-architecture",
-    "stargazers_count": 1404,
+    "stargazers_count": 1406,
     "open_issues_count": 2,
     "forks_count": 177
   },
   {
     "full_name": "charlax/professional-programming",
-    "stargazers_count": 46643,
+    "stargazers_count": 46657,
     "open_issues_count": 5,
-    "forks_count": 3715
+    "forks_count": 3719
   },
   {
     "full_name": "hnasr/javascript_playground",
-    "stargazers_count": 1065,
+    "stargazers_count": 1067,
     "open_issues_count": 38,
     "forks_count": 950
   }
