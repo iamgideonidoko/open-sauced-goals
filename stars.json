@@ -1,33 +1,39 @@
 [
   {
+    "full_name": "expo/orbit",
+    "stargazers_count": 447,
+    "open_issues_count": 10,
+    "forks_count": 10
+  },
+  {
     "full_name": "kamranahmedse/driver.js",
-    "stargazers_count": 22813,
-    "open_issues_count": 84,
+    "stargazers_count": 22831,
+    "open_issues_count": 83,
     "forks_count": 1016
   },
   {
     "full_name": "maxwellito/vivus",
-    "stargazers_count": 15253,
+    "stargazers_count": 15247,
     "open_issues_count": 20,
     "forks_count": 1134
   },
   {
     "full_name": "huggingface/transformers.js",
-    "stargazers_count": 11835,
-    "open_issues_count": 297,
-    "forks_count": 745
+    "stargazers_count": 11897,
+    "open_issues_count": 300,
+    "forks_count": 750
   },
   {
     "full_name": "nanostores/nanostores",
-    "stargazers_count": 5361,
+    "stargazers_count": 5377,
     "open_issues_count": 24,
     "forks_count": 109
   },
   {
     "full_name": "unclecode/crawl4ai",
-    "stargazers_count": 15501,
-    "open_issues_count": 55,
-    "forks_count": 1112
+    "stargazers_count": 15631,
+    "open_issues_count": 56,
+    "forks_count": 1129
   },
   {
     "full_name": "jankohlbach/real-world-shader",
@@ -37,25 +43,25 @@
   },
   {
     "full_name": "Dhravya/cloudflare-saas-stack",
-    "stargazers_count": 3071,
-    "open_issues_count": 7,
+    "stargazers_count": 3081,
+    "open_issues_count": 4,
     "forks_count": 231
   },
   {
     "full_name": "stevearc/oil.nvim",
-    "stargazers_count": 4007,
-    "open_issues_count": 82,
-    "forks_count": 119
+    "stargazers_count": 4016,
+    "open_issues_count": 83,
+    "forks_count": 120
   },
   {
     "full_name": "privatenumber/tsx",
-    "stargazers_count": 9655,
+    "stargazers_count": 9679,
     "open_issues_count": 72,
-    "forks_count": 154
+    "forks_count": 153
   },
   {
     "full_name": "pachoclo/vite-threejs-ts-template",
-    "stargazers_count": 135,
+    "stargazers_count": 136,
     "open_issues_count": 1,
     "forks_count": 19
   },
@@ -67,9 +73,9 @@
   },
   {
     "full_name": "expo/expo",
-    "stargazers_count": 34052,
-    "open_issues_count": 679,
-    "forks_count": 5448
+    "stargazers_count": 34119,
+    "open_issues_count": 653,
+    "forks_count": 5461
   },
   {
     "full_name": "ojroques/nvim-bufdel",
@@ -79,9 +85,9 @@
   },
   {
     "full_name": "livekit/livekit",
-    "stargazers_count": 10407,
+    "stargazers_count": 10436,
     "open_issues_count": 108,
-    "forks_count": 869
+    "forks_count": 874
   },
   {
     "full_name": "mykeels/x-microfrontends",
@@ -90,28 +96,28 @@
     "forks_count": 11
   },
   {
-    "full_name": "kaykeeb3/Figma-UI",
+    "full_name": "kaykeeb3/figma-jam-ui-react",
     "stargazers_count": 21,
     "open_issues_count": 0,
     "forks_count": 7
   },
   {
     "full_name": "oven-sh/bun",
-    "stargazers_count": 74093,
-    "open_issues_count": 3927,
-    "forks_count": 2762
+    "stargazers_count": 74122,
+    "open_issues_count": 3946,
+    "forks_count": 2765
   },
   {
     "full_name": "BuilderIO/mitosis",
-    "stargazers_count": 12501,
-    "open_issues_count": 170,
+    "stargazers_count": 12506,
+    "open_issues_count": 172,
     "forks_count": 556
   },
   {
     "full_name": "lukeautry/tsoa",
-    "stargazers_count": 3556,
-    "open_issues_count": 108,
-    "forks_count": 499
+    "stargazers_count": 3561,
+    "open_issues_count": 110,
+    "forks_count": 500
   },
   {
     "full_name": "YouGoDevs/LeetcodeStudyGuide",
@@ -127,7 +133,7 @@
   },
   {
     "full_name": "ektogamat/threejs-andy-boilerplate",
-    "stargazers_count": 708,
+    "stargazers_count": 709,
     "open_issues_count": 0,
     "forks_count": 133
   },
@@ -145,15 +151,15 @@
   },
   {
     "full_name": "gibbok/typescript-book",
-    "stargazers_count": 8468,
+    "stargazers_count": 8472,
     "open_issues_count": 1,
-    "forks_count": 522
+    "forks_count": 521
   },
   {
     "full_name": "langchain-ai/langchain",
-    "stargazers_count": 94381,
-    "open_issues_count": 777,
-    "forks_count": 15256
+    "stargazers_count": 94520,
+    "open_issues_count": 760,
+    "forks_count": 15286
   },
   {
     "full_name": "mykeels/rest-api-ioc-demo",
@@ -169,14 +175,8 @@
   },
   {
     "full_name": "charlax/professional-programming",
-    "stargazers_count": 46694,
-    "open_issues_count": 5,
-    "forks_count": 3723
-  },
-  {
-    "full_name": "hnasr/javascript_playground",
-    "stargazers_count": 1070,
-    "open_issues_count": 38,
-    "forks_count": 951
+    "stargazers_count": 46710,
+    "open_issues_count": 2,
+    "forks_count": 3726
   }
 ]
