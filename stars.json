@@ -1,69 +1,69 @@
 [
   {
     "full_name": "codecrafters-io/build-your-own-x",
-    "stargazers_count": 313172,
-    "open_issues_count": 343,
-    "forks_count": 29080
+    "stargazers_count": 313632,
+    "open_issues_count": 346,
+    "forks_count": 29128
   },
   {
     "full_name": "google/bundletool",
-    "stargazers_count": 3567,
+    "stargazers_count": 3571,
     "open_issues_count": 77,
     "forks_count": 387
   },
   {
     "full_name": "FarazzShaikh/THREE-CustomShaderMaterial",
-    "stargazers_count": 914,
+    "stargazers_count": 920,
     "open_issues_count": 2,
-    "forks_count": 58
+    "forks_count": 59
   },
   {
     "full_name": "rossant/awesome-math",
-    "stargazers_count": 8896,
+    "stargazers_count": 8906,
     "open_issues_count": 15,
-    "forks_count": 962
+    "forks_count": 963
   },
   {
     "full_name": "donmccurdy/glTF-Transform",
-    "stargazers_count": 1428,
-    "open_issues_count": 70,
+    "stargazers_count": 1430,
+    "open_issues_count": 67,
     "forks_count": 150
   },
   {
     "full_name": "expo/orbit",
     "stargazers_count": 458,
-    "open_issues_count": 9,
+    "open_issues_count": 8,
     "forks_count": 10
   },
   {
     "full_name": "kamranahmedse/driver.js",
-    "stargazers_count": 22899,
+    "stargazers_count": 22908,
     "open_issues_count": 84,
     "forks_count": 1026
   },
   {
     "full_name": "maxwellito/vivus",
-    "stargazers_count": 15255,
+    "stargazers_count": 15256,
     "open_issues_count": 20,
     "forks_count": 1132
   },
   {
     "full_name": "huggingface/transformers.js",
-    "stargazers_count": 12181,
-    "open_issues_count": 313,
-    "forks_count": 772
+    "stargazers_count": 12213,
+    "open_issues_count": 312,
+    "forks_count": 776
   },
   {
     "full_name": "nanostores/nanostores",
-    "stargazers_count": 5436,
-    "open_issues_count": 25,
+    "stargazers_count": 5451,
+    "open_issues_count": 24,
     "forks_count": 109
   },
   {
     "full_name": "unclecode/crawl4ai",
-    "stargazers_count": 16563,
-    "open_issues_count": 81,
-    "forks_count": 1226
+    "stargazers_count": 16768,
+    "open_issues_count": 78,
+    "forks_count": 1248
   },
   {
     "full_name": "jankohlbach/real-world-shader",
@@ -73,19 +73,19 @@
   },
   {
     "full_name": "Dhravya/cloudflare-saas-stack",
-    "stargazers_count": 3107,
+    "stargazers_count": 3110,
     "open_issues_count": 4,
-    "forks_count": 234
+    "forks_count": 235
   },
   {
     "full_name": "stevearc/oil.nvim",
-    "stargazers_count": 4100,
-    "open_issues_count": 73,
+    "stargazers_count": 4109,
+    "open_issues_count": 74,
     "forks_count": 121
   },
   {
     "full_name": "privatenumber/tsx",
-    "stargazers_count": 9794,
+    "stargazers_count": 9822,
     "open_issues_count": 76,
     "forks_count": 154
   },
@@ -103,9 +103,9 @@
   },
   {
     "full_name": "expo/expo",
-    "stargazers_count": 34784,
-    "open_issues_count": 686,
-    "forks_count": 5578
+    "stargazers_count": 34920,
+    "open_issues_count": 698,
+    "forks_count": 5603
   },
   {
     "full_name": "ojroques/nvim-bufdel",
@@ -115,9 +115,9 @@
   },
   {
     "full_name": "livekit/livekit",
-    "stargazers_count": 10654,
-    "open_issues_count": 116,
-    "forks_count": 897
+    "stargazers_count": 10690,
+    "open_issues_count": 120,
+    "forks_count": 901
   },
   {
     "full_name": "mykeels/x-microfrontends",
@@ -133,20 +133,20 @@
   },
   {
     "full_name": "oven-sh/bun",
-    "stargazers_count": 74402,
-    "open_issues_count": 4021,
-    "forks_count": 2780
+    "stargazers_count": 74465,
+    "open_issues_count": 4038,
+    "forks_count": 2781
   },
   {
     "full_name": "BuilderIO/mitosis",
-    "stargazers_count": 12556,
-    "open_issues_count": 176,
-    "forks_count": 558
+    "stargazers_count": 12567,
+    "open_issues_count": 177,
+    "forks_count": 559
   },
   {
     "full_name": "lukeautry/tsoa",
-    "stargazers_count": 3588,
-    "open_issues_count": 115,
+    "stargazers_count": 3595,
+    "open_issues_count": 116,
     "forks_count": 503
   },
   {
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "atulmy/fullstack-javascript-architecture",
-    "stargazers_count": 702,
+    "stargazers_count": 703,
     "open_issues_count": 0,
-    "forks_count": 180
+    "forks_count": 181
   }
 ]
