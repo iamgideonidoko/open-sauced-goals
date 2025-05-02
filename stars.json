@@ -7,13 +7,13 @@
   },
   {
     "full_name": "ichtrojan/cook",
-    "stargazers_count": 28,
+    "stargazers_count": 29,
     "open_issues_count": 0,
-    "forks_count": 4
+    "forks_count": 5
   },
   {
     "full_name": "lusionltd/WebGL-Scroll-Sync",
-    "stargazers_count": 238,
+    "stargazers_count": 240,
     "open_issues_count": 0,
     "forks_count": 6
   },
@@ -25,19 +25,19 @@
   },
   {
     "full_name": "microsoft/typescript-go",
-    "stargazers_count": 19403,
-    "open_issues_count": 66,
-    "forks_count": 583
+    "stargazers_count": 19449,
+    "open_issues_count": 69,
+    "forks_count": 587
   },
   {
     "full_name": "luisdnsantos/awesome-computer-graphics",
-    "stargazers_count": 859,
+    "stargazers_count": 861,
     "open_issues_count": 1,
     "forks_count": 65
   },
   {
     "full_name": "vanjs-org/van",
-    "stargazers_count": 4064,
+    "stargazers_count": 4063,
     "open_issues_count": 39,
     "forks_count": 102
   },
@@ -49,7 +49,7 @@
   },
   {
     "full_name": "wojciech-kulik/xcodebuild.nvim",
-    "stargazers_count": 947,
+    "stargazers_count": 951,
     "open_issues_count": 6,
     "forks_count": 27
   },
@@ -57,7 +57,7 @@
     "full_name": "q5js/q5.js",
     "stargazers_count": 264,
     "open_issues_count": 13,
-    "forks_count": 17
+    "forks_count": 16
   },
   {
     "full_name": "JoshuaManuel/Karabiner-Elements-Key-List",
@@ -67,13 +67,13 @@
   },
   {
     "full_name": "teal-language/tl",
-    "stargazers_count": 2366,
-    "open_issues_count": 98,
-    "forks_count": 123
+    "stargazers_count": 2368,
+    "open_issues_count": 101,
+    "forks_count": 124
   },
   {
     "full_name": "voidcosmos/npkill",
-    "stargazers_count": 8597,
+    "stargazers_count": 8599,
     "open_issues_count": 24,
     "forks_count": 200
   },
@@ -85,9 +85,9 @@
   },
   {
     "full_name": "ghostty-org/ghostty",
-    "stargazers_count": 30036,
-    "open_issues_count": 204,
-    "forks_count": 803
+    "stargazers_count": 30140,
+    "open_issues_count": 209,
+    "forks_count": 805
   },
   {
     "full_name": "FradSer/30-days-of-shaders",
@@ -97,75 +97,75 @@
   },
   {
     "full_name": "github/copilot.vim",
-    "stargazers_count": 9805,
-    "open_issues_count": 8,
-    "forks_count": 421
+    "stargazers_count": 9825,
+    "open_issues_count": 10,
+    "forks_count": 423
   },
   {
     "full_name": "codecrafters-io/build-your-own-x",
-    "stargazers_count": 376232,
+    "stargazers_count": 377210,
     "open_issues_count": 373,
-    "forks_count": 35028
+    "forks_count": 35112
   },
   {
     "full_name": "google/bundletool",
-    "stargazers_count": 3696,
+    "stargazers_count": 3701,
     "open_issues_count": 84,
-    "forks_count": 395
+    "forks_count": 396
   },
   {
     "full_name": "FarazzShaikh/THREE-CustomShaderMaterial",
-    "stargazers_count": 1059,
+    "stargazers_count": 1061,
     "open_issues_count": 1,
     "forks_count": 65
   },
   {
     "full_name": "rossant/awesome-math",
-    "stargazers_count": 9581,
+    "stargazers_count": 9589,
     "open_issues_count": 15,
     "forks_count": 1008
   },
   {
     "full_name": "donmccurdy/glTF-Transform",
     "stargazers_count": 1573,
-    "open_issues_count": 73,
+    "open_issues_count": 75,
     "forks_count": 157
   },
   {
     "full_name": "expo/orbit",
-    "stargazers_count": 537,
+    "stargazers_count": 541,
     "open_issues_count": 15,
     "forks_count": 23
   },
   {
     "full_name": "kamranahmedse/driver.js",
-    "stargazers_count": 24037,
+    "stargazers_count": 24045,
     "open_issues_count": 90,
-    "forks_count": 1085
+    "forks_count": 1086
   },
   {
     "full_name": "maxwellito/vivus",
-    "stargazers_count": 15371,
+    "stargazers_count": 15373,
     "open_issues_count": 21,
-    "forks_count": 1135
+    "forks_count": 1136
   },
   {
     "full_name": "huggingface/transformers.js",
-    "stargazers_count": 13508,
-    "open_issues_count": 389,
-    "forks_count": 902
+    "stargazers_count": 13525,
+    "open_issues_count": 388,
+    "forks_count": 906
   },
   {
     "full_name": "nanostores/nanostores",
-    "stargazers_count": 6088,
+    "stargazers_count": 6102,
     "open_issues_count": 24,
     "forks_count": 114
   },
   {
     "full_name": "unclecode/crawl4ai",
-    "stargazers_count": 41306,
-    "open_issues_count": 149,
-    "forks_count": 3742
+    "stargazers_count": 41890,
+    "open_issues_count": 160,
+    "forks_count": 3822
   },
   {
     "full_name": "jankohlbach/real-world-shader",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "Dhravya/cloudflare-saas-stack",
-    "stargazers_count": 3464,
+    "stargazers_count": 3463,
     "open_issues_count": 4,
-    "forks_count": 281
+    "forks_count": 282
   }
 ]
