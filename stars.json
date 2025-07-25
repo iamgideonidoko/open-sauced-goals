@@ -1,19 +1,37 @@
 [
   {
+    "full_name": "cmiscm/leonsans",
+    "stargazers_count": 10193,
+    "open_issues_count": 13,
+    "forks_count": 536
+  },
+  {
+    "full_name": "tamagui/tamagui",
+    "stargazers_count": 12872,
+    "open_issues_count": 142,
+    "forks_count": 562
+  },
+  {
+    "full_name": "kristijanhusak/vim-dadbod-ui",
+    "stargazers_count": 1777,
+    "open_issues_count": 86,
+    "forks_count": 107
+  },
+  {
     "full_name": "huozhi/vaso",
-    "stargazers_count": 104,
+    "stargazers_count": 133,
     "open_issues_count": 2,
     "forks_count": 2
   },
   {
     "full_name": "bradtraversy/design-resources-for-developers",
-    "stargazers_count": 62310,
+    "stargazers_count": 62351,
     "open_issues_count": 1,
-    "forks_count": 11801
+    "forks_count": 11797
   },
   {
     "full_name": "theatre-js/theatre",
-    "stargazers_count": 11838,
+    "stargazers_count": 11843,
     "open_issues_count": 127,
     "forks_count": 383
   },
@@ -25,7 +43,7 @@
   },
   {
     "full_name": "danielpetho/fancy",
-    "stargazers_count": 2033,
+    "stargazers_count": 2082,
     "open_issues_count": 3,
     "forks_count": 64
   },
@@ -37,45 +55,45 @@
   },
   {
     "full_name": "tpope/vim-dadbod",
-    "stargazers_count": 4083,
+    "stargazers_count": 4087,
     "open_issues_count": 48,
     "forks_count": 140
   },
   {
     "full_name": "mistweaverco/kulala.nvim",
-    "stargazers_count": 1412,
-    "open_issues_count": 6,
-    "forks_count": 57
+    "stargazers_count": 1424,
+    "open_issues_count": 9,
+    "forks_count": 58
   },
   {
     "full_name": "coollabsio/coolify",
-    "stargazers_count": 43592,
-    "open_issues_count": 594,
-    "forks_count": 2742
+    "stargazers_count": 43691,
+    "open_issues_count": 604,
+    "forks_count": 2755
   },
   {
     "full_name": "Dokploy/dokploy",
-    "stargazers_count": 21846,
-    "open_issues_count": 195,
-    "forks_count": 1203
+    "stargazers_count": 22060,
+    "open_issues_count": 202,
+    "forks_count": 1216
   },
   {
     "full_name": "jtroo/kanata",
-    "stargazers_count": 5456,
-    "open_issues_count": 107,
-    "forks_count": 193
+    "stargazers_count": 5472,
+    "open_issues_count": 110,
+    "forks_count": 195
   },
   {
     "full_name": "yetone/avante.nvim",
-    "stargazers_count": 15227,
-    "open_issues_count": 185,
-    "forks_count": 676
+    "stargazers_count": 15275,
+    "open_issues_count": 181,
+    "forks_count": 680
   },
   {
     "full_name": "dotenvx/dotenvx",
-    "stargazers_count": 4053,
+    "stargazers_count": 4075,
     "open_issues_count": 16,
-    "forks_count": 76
+    "forks_count": 77
   },
   {
     "full_name": "pomdtr/tweety",
@@ -97,7 +115,7 @@
   },
   {
     "full_name": "lusionltd/WebGL-Scroll-Sync",
-    "stargazers_count": 266,
+    "stargazers_count": 268,
     "open_issues_count": 0,
     "forks_count": 9
   },
@@ -109,20 +127,20 @@
   },
   {
     "full_name": "microsoft/typescript-go",
-    "stargazers_count": 21344,
-    "open_issues_count": 126,
-    "forks_count": 664
+    "stargazers_count": 21377,
+    "open_issues_count": 118,
+    "forks_count": 661
   },
   {
     "full_name": "luisdnsantos/awesome-computer-graphics",
-    "stargazers_count": 895,
+    "stargazers_count": 896,
     "open_issues_count": 1,
     "forks_count": 67
   },
   {
     "full_name": "vanjs-org/van",
-    "stargazers_count": 4137,
-    "open_issues_count": 37,
+    "stargazers_count": 4142,
+    "open_issues_count": 36,
     "forks_count": 105
   },
   {
@@ -133,14 +151,14 @@
   },
   {
     "full_name": "wojciech-kulik/xcodebuild.nvim",
-    "stargazers_count": 1024,
+    "stargazers_count": 1031,
     "open_issues_count": 4,
     "forks_count": 27
   },
   {
     "full_name": "q5js/q5.js",
     "stargazers_count": 338,
-    "open_issues_count": 15,
+    "open_issues_count": 17,
     "forks_count": 16
   },
   {
@@ -151,32 +169,14 @@
   },
   {
     "full_name": "teal-language/tl",
-    "stargazers_count": 2523,
+    "stargazers_count": 2525,
     "open_issues_count": 107,
     "forks_count": 131
   },
   {
     "full_name": "voidcosmos/npkill",
-    "stargazers_count": 8660,
+    "stargazers_count": 8666,
     "open_issues_count": 23,
     "forks_count": 203
-  },
-  {
-    "full_name": "iamgideonidoko/loft.nvim",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "ghostty-org/ghostty",
-    "stargazers_count": 33270,
-    "open_issues_count": 172,
-    "forks_count": 944
-  },
-  {
-    "full_name": "FradSer/30-days-of-shaders",
-    "stargazers_count": 58,
-    "open_issues_count": 0,
-    "forks_count": 5
   }
 ]
