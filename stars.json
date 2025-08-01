@@ -1,21 +1,21 @@
 [
   {
     "full_name": "cmiscm/leonsans",
-    "stargazers_count": 10194,
+    "stargazers_count": 10193,
     "open_issues_count": 13,
     "forks_count": 536
   },
   {
     "full_name": "tamagui/tamagui",
-    "stargazers_count": 12886,
-    "open_issues_count": 145,
-    "forks_count": 564
+    "stargazers_count": 12900,
+    "open_issues_count": 148,
+    "forks_count": 565
   },
   {
     "full_name": "kristijanhusak/vim-dadbod-ui",
-    "stargazers_count": 1778,
+    "stargazers_count": 1783,
     "open_issues_count": 86,
-    "forks_count": 107
+    "forks_count": 108
   },
   {
     "full_name": "huozhi/vaso",
@@ -25,13 +25,13 @@
   },
   {
     "full_name": "bradtraversy/design-resources-for-developers",
-    "stargazers_count": 62414,
+    "stargazers_count": 62490,
     "open_issues_count": 1,
-    "forks_count": 11796
+    "forks_count": 11800
   },
   {
     "full_name": "theatre-js/theatre",
-    "stargazers_count": 11845,
+    "stargazers_count": 11853,
     "open_issues_count": 128,
     "forks_count": 383
   },
@@ -43,9 +43,9 @@
   },
   {
     "full_name": "danielpetho/fancy",
-    "stargazers_count": 2130,
+    "stargazers_count": 2133,
     "open_issues_count": 3,
-    "forks_count": 64
+    "forks_count": 66
   },
   {
     "full_name": "nabekou29/js-i18n.nvim",
@@ -55,51 +55,51 @@
   },
   {
     "full_name": "tpope/vim-dadbod",
-    "stargazers_count": 4087,
+    "stargazers_count": 4086,
     "open_issues_count": 48,
     "forks_count": 140
   },
   {
     "full_name": "mistweaverco/kulala.nvim",
-    "stargazers_count": 1433,
-    "open_issues_count": 7,
-    "forks_count": 59
+    "stargazers_count": 1441,
+    "open_issues_count": 11,
+    "forks_count": 60
   },
   {
     "full_name": "coollabsio/coolify",
-    "stargazers_count": 43807,
-    "open_issues_count": 609,
-    "forks_count": 2763
+    "stargazers_count": 43911,
+    "open_issues_count": 617,
+    "forks_count": 2773
   },
   {
     "full_name": "Dokploy/dokploy",
-    "stargazers_count": 22412,
-    "open_issues_count": 214,
-    "forks_count": 1234
+    "stargazers_count": 22534,
+    "open_issues_count": 224,
+    "forks_count": 1243
   },
   {
     "full_name": "jtroo/kanata",
-    "stargazers_count": 5501,
-    "open_issues_count": 105,
-    "forks_count": 198
+    "stargazers_count": 5530,
+    "open_issues_count": 106,
+    "forks_count": 199
   },
   {
     "full_name": "yetone/avante.nvim",
-    "stargazers_count": 15336,
-    "open_issues_count": 172,
-    "forks_count": 687
+    "stargazers_count": 15389,
+    "open_issues_count": 177,
+    "forks_count": 689
   },
   {
     "full_name": "dotenvx/dotenvx",
-    "stargazers_count": 4098,
-    "open_issues_count": 18,
+    "stargazers_count": 4116,
+    "open_issues_count": 16,
     "forks_count": 80
   },
   {
     "full_name": "pomdtr/tweety",
-    "stargazers_count": 228,
-    "open_issues_count": 3,
-    "forks_count": 7
+    "stargazers_count": 229,
+    "open_issues_count": 5,
+    "forks_count": 8
   },
   {
     "full_name": "MONOGRID/gainmap-js",
@@ -115,31 +115,31 @@
   },
   {
     "full_name": "lusionltd/WebGL-Scroll-Sync",
-    "stargazers_count": 269,
+    "stargazers_count": 272,
     "open_issues_count": 0,
     "forks_count": 9
   },
   {
     "full_name": "bizarro/2024",
-    "stargazers_count": 73,
+    "stargazers_count": 74,
     "open_issues_count": 0,
     "forks_count": 7
   },
   {
     "full_name": "microsoft/typescript-go",
-    "stargazers_count": 21414,
-    "open_issues_count": 122,
-    "forks_count": 664
+    "stargazers_count": 21445,
+    "open_issues_count": 129,
+    "forks_count": 669
   },
   {
     "full_name": "luisdnsantos/awesome-computer-graphics",
-    "stargazers_count": 898,
+    "stargazers_count": 899,
     "open_issues_count": 1,
     "forks_count": 67
   },
   {
     "full_name": "vanjs-org/van",
-    "stargazers_count": 4146,
+    "stargazers_count": 4148,
     "open_issues_count": 36,
     "forks_count": 105
   },
@@ -151,7 +151,7 @@
   },
   {
     "full_name": "wojciech-kulik/xcodebuild.nvim",
-    "stargazers_count": 1034,
+    "stargazers_count": 1035,
     "open_issues_count": 4,
     "forks_count": 28
   },
@@ -163,20 +163,20 @@
   },
   {
     "full_name": "JoshuaManuel/Karabiner-Elements-Key-List",
-    "stargazers_count": 104,
+    "stargazers_count": 105,
     "open_issues_count": 0,
     "forks_count": 6
   },
   {
     "full_name": "teal-language/tl",
-    "stargazers_count": 2521,
+    "stargazers_count": 2522,
     "open_issues_count": 107,
     "forks_count": 131
   },
   {
     "full_name": "voidcosmos/npkill",
-    "stargazers_count": 8673,
-    "open_issues_count": 20,
+    "stargazers_count": 8680,
+    "open_issues_count": 18,
     "forks_count": 205
   }
 ]
