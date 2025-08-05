@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "Shopify/gltf-compressor",
+    "stargazers_count": 283,
+    "open_issues_count": 0,
+    "forks_count": 8
+  },
+  {
     "full_name": "cmiscm/leonsans",
     "stargazers_count": 10193,
     "open_issues_count": 13,
@@ -7,44 +13,44 @@
   },
   {
     "full_name": "tamagui/tamagui",
-    "stargazers_count": 12900,
-    "open_issues_count": 148,
-    "forks_count": 565
+    "stargazers_count": 12924,
+    "open_issues_count": 145,
+    "forks_count": 567
   },
   {
     "full_name": "kristijanhusak/vim-dadbod-ui",
-    "stargazers_count": 1783,
+    "stargazers_count": 1785,
     "open_issues_count": 86,
     "forks_count": 108
   },
   {
     "full_name": "huozhi/vaso",
-    "stargazers_count": 138,
-    "open_issues_count": 2,
+    "stargazers_count": 141,
+    "open_issues_count": 3,
     "forks_count": 2
   },
   {
     "full_name": "bradtraversy/design-resources-for-developers",
-    "stargazers_count": 62490,
+    "stargazers_count": 62570,
     "open_issues_count": 1,
-    "forks_count": 11800
+    "forks_count": 11804
   },
   {
     "full_name": "theatre-js/theatre",
-    "stargazers_count": 11853,
+    "stargazers_count": 11858,
     "open_issues_count": 128,
     "forks_count": 383
   },
   {
     "full_name": "darkroomengineering/hamo",
-    "stargazers_count": 249,
+    "stargazers_count": 250,
     "open_issues_count": 3,
     "forks_count": 10
   },
   {
     "full_name": "danielpetho/fancy",
-    "stargazers_count": 2133,
-    "open_issues_count": 3,
+    "stargazers_count": 2142,
+    "open_issues_count": 4,
     "forks_count": 66
   },
   {
@@ -55,43 +61,43 @@
   },
   {
     "full_name": "tpope/vim-dadbod",
-    "stargazers_count": 4086,
+    "stargazers_count": 4088,
     "open_issues_count": 48,
     "forks_count": 140
   },
   {
     "full_name": "mistweaverco/kulala.nvim",
-    "stargazers_count": 1441,
-    "open_issues_count": 11,
-    "forks_count": 60
+    "stargazers_count": 1447,
+    "open_issues_count": 6,
+    "forks_count": 61
   },
   {
     "full_name": "coollabsio/coolify",
-    "stargazers_count": 43911,
-    "open_issues_count": 617,
-    "forks_count": 2773
+    "stargazers_count": 44011,
+    "open_issues_count": 609,
+    "forks_count": 2785
   },
   {
     "full_name": "Dokploy/dokploy",
-    "stargazers_count": 22534,
-    "open_issues_count": 224,
-    "forks_count": 1243
+    "stargazers_count": 22673,
+    "open_issues_count": 195,
+    "forks_count": 1249
   },
   {
     "full_name": "jtroo/kanata",
-    "stargazers_count": 5530,
-    "open_issues_count": 106,
-    "forks_count": 199
+    "stargazers_count": 5565,
+    "open_issues_count": 107,
+    "forks_count": 202
   },
   {
     "full_name": "yetone/avante.nvim",
-    "stargazers_count": 15389,
-    "open_issues_count": 177,
-    "forks_count": 689
+    "stargazers_count": 15441,
+    "open_issues_count": 174,
+    "forks_count": 693
   },
   {
     "full_name": "dotenvx/dotenvx",
-    "stargazers_count": 4116,
+    "stargazers_count": 4137,
     "open_issues_count": 16,
     "forks_count": 80
   },
@@ -103,7 +109,7 @@
   },
   {
     "full_name": "MONOGRID/gainmap-js",
-    "stargazers_count": 136,
+    "stargazers_count": 135,
     "open_issues_count": 6,
     "forks_count": 9
   },
@@ -123,41 +129,41 @@
     "full_name": "bizarro/2024",
     "stargazers_count": 74,
     "open_issues_count": 0,
-    "forks_count": 7
+    "forks_count": 8
   },
   {
     "full_name": "microsoft/typescript-go",
-    "stargazers_count": 21445,
-    "open_issues_count": 129,
-    "forks_count": 669
+    "stargazers_count": 21512,
+    "open_issues_count": 134,
+    "forks_count": 675
   },
   {
     "full_name": "luisdnsantos/awesome-computer-graphics",
-    "stargazers_count": 899,
+    "stargazers_count": 901,
     "open_issues_count": 1,
     "forks_count": 67
   },
   {
     "full_name": "vanjs-org/van",
-    "stargazers_count": 4148,
+    "stargazers_count": 4152,
     "open_issues_count": 36,
     "forks_count": 105
   },
   {
     "full_name": "ariedov/android-nvim",
-    "stargazers_count": 26,
-    "open_issues_count": 3,
+    "stargazers_count": 28,
+    "open_issues_count": 2,
     "forks_count": 3
   },
   {
     "full_name": "wojciech-kulik/xcodebuild.nvim",
-    "stargazers_count": 1035,
+    "stargazers_count": 1040,
     "open_issues_count": 4,
     "forks_count": 28
   },
   {
     "full_name": "q5js/q5.js",
-    "stargazers_count": 338,
+    "stargazers_count": 339,
     "open_issues_count": 16,
     "forks_count": 16
   },
@@ -169,14 +175,8 @@
   },
   {
     "full_name": "teal-language/tl",
-    "stargazers_count": 2522,
+    "stargazers_count": 2531,
     "open_issues_count": 107,
-    "forks_count": 131
-  },
-  {
-    "full_name": "voidcosmos/npkill",
-    "stargazers_count": 8680,
-    "open_issues_count": 18,
-    "forks_count": 205
+    "forks_count": 132
   }
 ]
