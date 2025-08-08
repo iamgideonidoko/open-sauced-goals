@@ -1,43 +1,49 @@
 [
   {
+    "full_name": "j0hnm4r5/awesome-creative-technology",
+    "stargazers_count": 526,
+    "open_issues_count": 5,
+    "forks_count": 38
+  },
+  {
     "full_name": "Shopify/gltf-compressor",
-    "stargazers_count": 283,
+    "stargazers_count": 295,
     "open_issues_count": 0,
-    "forks_count": 8
+    "forks_count": 9
   },
   {
     "full_name": "cmiscm/leonsans",
-    "stargazers_count": 10193,
+    "stargazers_count": 10192,
     "open_issues_count": 13,
     "forks_count": 536
   },
   {
     "full_name": "tamagui/tamagui",
-    "stargazers_count": 12924,
-    "open_issues_count": 145,
+    "stargazers_count": 12948,
+    "open_issues_count": 149,
     "forks_count": 567
   },
   {
     "full_name": "kristijanhusak/vim-dadbod-ui",
-    "stargazers_count": 1785,
-    "open_issues_count": 86,
+    "stargazers_count": 1786,
+    "open_issues_count": 87,
     "forks_count": 108
   },
   {
     "full_name": "huozhi/vaso",
-    "stargazers_count": 141,
+    "stargazers_count": 145,
     "open_issues_count": 3,
     "forks_count": 2
   },
   {
     "full_name": "bradtraversy/design-resources-for-developers",
-    "stargazers_count": 62570,
+    "stargazers_count": 62600,
     "open_issues_count": 1,
-    "forks_count": 11804
+    "forks_count": 11806
   },
   {
     "full_name": "theatre-js/theatre",
-    "stargazers_count": 11858,
+    "stargazers_count": 11865,
     "open_issues_count": 128,
     "forks_count": 383
   },
@@ -49,8 +55,8 @@
   },
   {
     "full_name": "danielpetho/fancy",
-    "stargazers_count": 2142,
-    "open_issues_count": 4,
+    "stargazers_count": 2156,
+    "open_issues_count": 3,
     "forks_count": 66
   },
   {
@@ -61,45 +67,45 @@
   },
   {
     "full_name": "tpope/vim-dadbod",
-    "stargazers_count": 4088,
+    "stargazers_count": 4091,
     "open_issues_count": 48,
     "forks_count": 140
   },
   {
     "full_name": "mistweaverco/kulala.nvim",
-    "stargazers_count": 1447,
-    "open_issues_count": 6,
-    "forks_count": 61
+    "stargazers_count": 1451,
+    "open_issues_count": 8,
+    "forks_count": 62
   },
   {
     "full_name": "coollabsio/coolify",
-    "stargazers_count": 44011,
-    "open_issues_count": 609,
-    "forks_count": 2785
+    "stargazers_count": 44074,
+    "open_issues_count": 617,
+    "forks_count": 2793
   },
   {
     "full_name": "Dokploy/dokploy",
-    "stargazers_count": 22673,
-    "open_issues_count": 195,
-    "forks_count": 1249
+    "stargazers_count": 22835,
+    "open_issues_count": 207,
+    "forks_count": 1254
   },
   {
     "full_name": "jtroo/kanata",
-    "stargazers_count": 5565,
-    "open_issues_count": 107,
-    "forks_count": 202
+    "stargazers_count": 5586,
+    "open_issues_count": 103,
+    "forks_count": 207
   },
   {
     "full_name": "yetone/avante.nvim",
-    "stargazers_count": 15441,
+    "stargazers_count": 15490,
     "open_issues_count": 174,
-    "forks_count": 693
+    "forks_count": 690
   },
   {
     "full_name": "dotenvx/dotenvx",
-    "stargazers_count": 4137,
-    "open_issues_count": 16,
-    "forks_count": 80
+    "stargazers_count": 4152,
+    "open_issues_count": 17,
+    "forks_count": 81
   },
   {
     "full_name": "pomdtr/tweety",
@@ -133,19 +139,19 @@
   },
   {
     "full_name": "microsoft/typescript-go",
-    "stargazers_count": 21512,
-    "open_issues_count": 134,
-    "forks_count": 675
+    "stargazers_count": 21593,
+    "open_issues_count": 142,
+    "forks_count": 676
   },
   {
     "full_name": "luisdnsantos/awesome-computer-graphics",
-    "stargazers_count": 901,
+    "stargazers_count": 905,
     "open_issues_count": 1,
     "forks_count": 67
   },
   {
     "full_name": "vanjs-org/van",
-    "stargazers_count": 4152,
+    "stargazers_count": 4158,
     "open_issues_count": 36,
     "forks_count": 105
   },
@@ -157,14 +163,14 @@
   },
   {
     "full_name": "wojciech-kulik/xcodebuild.nvim",
-    "stargazers_count": 1040,
+    "stargazers_count": 1044,
     "open_issues_count": 4,
-    "forks_count": 28
+    "forks_count": 29
   },
   {
     "full_name": "q5js/q5.js",
-    "stargazers_count": 339,
-    "open_issues_count": 16,
+    "stargazers_count": 340,
+    "open_issues_count": 17,
     "forks_count": 16
   },
   {
@@ -172,11 +178,5 @@
     "stargazers_count": 105,
     "open_issues_count": 0,
     "forks_count": 6
-  },
-  {
-    "full_name": "teal-language/tl",
-    "stargazers_count": 2531,
-    "open_issues_count": 107,
-    "forks_count": 132
   }
 ]
