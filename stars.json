@@ -1,31 +1,43 @@
 [
   {
+    "full_name": "Effect-TS/effect",
+    "stargazers_count": 11013,
+    "open_issues_count": 341,
+    "forks_count": 380
+  },
+  {
+    "full_name": "callstack/rock",
+    "stargazers_count": 506,
+    "open_issues_count": 40,
+    "forks_count": 21
+  },
+  {
     "full_name": "47ng/nuqs",
-    "stargazers_count": 8286,
-    "open_issues_count": 37,
-    "forks_count": 194
+    "stargazers_count": 8311,
+    "open_issues_count": 36,
+    "forks_count": 195
   },
   {
     "full_name": "darkroomengineering/satus",
-    "stargazers_count": 766,
+    "stargazers_count": 770,
     "open_issues_count": 4,
     "forks_count": 68
   },
   {
     "full_name": "zumerlab/snapdom",
-    "stargazers_count": 5407,
-    "open_issues_count": 19,
-    "forks_count": 174
+    "stargazers_count": 5469,
+    "open_issues_count": 20,
+    "forks_count": 176
   },
   {
     "full_name": "better-auth/better-auth",
-    "stargazers_count": 19207,
-    "open_issues_count": 572,
-    "forks_count": 1432
+    "stargazers_count": 19337,
+    "open_issues_count": 574,
+    "forks_count": 1451
   },
   {
     "full_name": "j0hnm4r5/awesome-creative-technology",
-    "stargazers_count": 527,
+    "stargazers_count": 528,
     "open_issues_count": 5,
     "forks_count": 38
   },
@@ -37,51 +49,51 @@
   },
   {
     "full_name": "cmiscm/leonsans",
-    "stargazers_count": 10192,
+    "stargazers_count": 10193,
     "open_issues_count": 13,
     "forks_count": 535
   },
   {
     "full_name": "tamagui/tamagui",
-    "stargazers_count": 12993,
-    "open_issues_count": 157,
+    "stargazers_count": 13010,
+    "open_issues_count": 162,
     "forks_count": 571
   },
   {
     "full_name": "kristijanhusak/vim-dadbod-ui",
-    "stargazers_count": 1791,
-    "open_issues_count": 87,
-    "forks_count": 108
+    "stargazers_count": 1798,
+    "open_issues_count": 89,
+    "forks_count": 109
   },
   {
     "full_name": "huozhi/vaso",
-    "stargazers_count": 173,
+    "stargazers_count": 187,
     "open_issues_count": 4,
     "forks_count": 2
   },
   {
     "full_name": "bradtraversy/design-resources-for-developers",
-    "stargazers_count": 62750,
+    "stargazers_count": 62793,
     "open_issues_count": 3,
-    "forks_count": 11822
+    "forks_count": 11826
   },
   {
     "full_name": "theatre-js/theatre",
-    "stargazers_count": 11882,
+    "stargazers_count": 11883,
     "open_issues_count": 129,
     "forks_count": 383
   },
   {
     "full_name": "darkroomengineering/hamo",
-    "stargazers_count": 253,
+    "stargazers_count": 256,
     "open_issues_count": 3,
     "forks_count": 11
   },
   {
     "full_name": "danielpetho/fancy",
-    "stargazers_count": 2220,
+    "stargazers_count": 2231,
     "open_issues_count": 4,
-    "forks_count": 69
+    "forks_count": 70
   },
   {
     "full_name": "nabekou29/js-i18n.nvim",
@@ -91,45 +103,45 @@
   },
   {
     "full_name": "tpope/vim-dadbod",
-    "stargazers_count": 4098,
+    "stargazers_count": 4102,
     "open_issues_count": 48,
-    "forks_count": 140
+    "forks_count": 139
   },
   {
     "full_name": "mistweaverco/kulala.nvim",
-    "stargazers_count": 1468,
-    "open_issues_count": 9,
-    "forks_count": 64
+    "stargazers_count": 1477,
+    "open_issues_count": 7,
+    "forks_count": 65
   },
   {
     "full_name": "coollabsio/coolify",
-    "stargazers_count": 44357,
-    "open_issues_count": 606,
-    "forks_count": 2833
+    "stargazers_count": 44448,
+    "open_issues_count": 609,
+    "forks_count": 2835
   },
   {
     "full_name": "Dokploy/dokploy",
-    "stargazers_count": 23252,
-    "open_issues_count": 220,
-    "forks_count": 1288
+    "stargazers_count": 23418,
+    "open_issues_count": 232,
+    "forks_count": 1306
   },
   {
     "full_name": "jtroo/kanata",
-    "stargazers_count": 5668,
-    "open_issues_count": 108,
-    "forks_count": 212
+    "stargazers_count": 5676,
+    "open_issues_count": 109,
+    "forks_count": 213
   },
   {
     "full_name": "yetone/avante.nvim",
-    "stargazers_count": 15635,
-    "open_issues_count": 164,
+    "stargazers_count": 15666,
+    "open_issues_count": 168,
     "forks_count": 704
   },
   {
     "full_name": "dotenvx/dotenvx",
-    "stargazers_count": 4204,
-    "open_issues_count": 20,
-    "forks_count": 86
+    "stargazers_count": 4215,
+    "open_issues_count": 18,
+    "forks_count": 87
   },
   {
     "full_name": "pomdtr/tweety",
@@ -139,7 +151,7 @@
   },
   {
     "full_name": "MONOGRID/gainmap-js",
-    "stargazers_count": 141,
+    "stargazers_count": 143,
     "open_issues_count": 6,
     "forks_count": 10
   },
@@ -151,9 +163,9 @@
   },
   {
     "full_name": "lusionltd/WebGL-Scroll-Sync",
-    "stargazers_count": 273,
+    "stargazers_count": 274,
     "open_issues_count": 0,
-    "forks_count": 9
+    "forks_count": 8
   },
   {
     "full_name": "bizarro/2024",
@@ -163,20 +175,8 @@
   },
   {
     "full_name": "microsoft/typescript-go",
-    "stargazers_count": 21749,
-    "open_issues_count": 146,
-    "forks_count": 685
-  },
-  {
-    "full_name": "luisdnsantos/awesome-computer-graphics",
-    "stargazers_count": 910,
-    "open_issues_count": 1,
-    "forks_count": 68
-  },
-  {
-    "full_name": "vanjs-org/van",
-    "stargazers_count": 4164,
-    "open_issues_count": 36,
-    "forks_count": 105
+    "stargazers_count": 21802,
+    "open_issues_count": 147,
+    "forks_count": 687
   }
 ]
