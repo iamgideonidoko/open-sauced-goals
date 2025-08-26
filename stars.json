@@ -1,39 +1,51 @@
 [
   {
+    "full_name": "AmanVarshney01/create-better-t-stack",
+    "stargazers_count": 3268,
+    "open_issues_count": 71,
+    "forks_count": 152
+  },
+  {
+    "full_name": "Ali-Hussein-dev/formcn",
+    "stargazers_count": 132,
+    "open_issues_count": 4,
+    "forks_count": 7
+  },
+  {
     "full_name": "Effect-TS/effect",
-    "stargazers_count": 11013,
-    "open_issues_count": 341,
-    "forks_count": 380
+    "stargazers_count": 11054,
+    "open_issues_count": 343,
+    "forks_count": 382
   },
   {
     "full_name": "callstack/rock",
-    "stargazers_count": 506,
-    "open_issues_count": 40,
-    "forks_count": 21
+    "stargazers_count": 515,
+    "open_issues_count": 45,
+    "forks_count": 22
   },
   {
     "full_name": "47ng/nuqs",
-    "stargazers_count": 8311,
-    "open_issues_count": 36,
-    "forks_count": 195
+    "stargazers_count": 8339,
+    "open_issues_count": 35,
+    "forks_count": 196
   },
   {
     "full_name": "darkroomengineering/satus",
-    "stargazers_count": 770,
+    "stargazers_count": 772,
     "open_issues_count": 4,
-    "forks_count": 68
+    "forks_count": 69
   },
   {
     "full_name": "zumerlab/snapdom",
-    "stargazers_count": 5469,
-    "open_issues_count": 20,
-    "forks_count": 176
+    "stargazers_count": 5531,
+    "open_issues_count": 23,
+    "forks_count": 177
   },
   {
     "full_name": "better-auth/better-auth",
-    "stargazers_count": 19337,
-    "open_issues_count": 574,
-    "forks_count": 1451
+    "stargazers_count": 19502,
+    "open_issues_count": 586,
+    "forks_count": 1469
   },
   {
     "full_name": "j0hnm4r5/awesome-creative-technology",
@@ -43,43 +55,43 @@
   },
   {
     "full_name": "Shopify/gltf-compressor",
-    "stargazers_count": 298,
+    "stargazers_count": 299,
     "open_issues_count": 0,
     "forks_count": 9
   },
   {
     "full_name": "cmiscm/leonsans",
-    "stargazers_count": 10193,
+    "stargazers_count": 10194,
     "open_issues_count": 13,
     "forks_count": 535
   },
   {
     "full_name": "tamagui/tamagui",
-    "stargazers_count": 13010,
-    "open_issues_count": 162,
+    "stargazers_count": 13027,
+    "open_issues_count": 165,
     "forks_count": 571
   },
   {
     "full_name": "kristijanhusak/vim-dadbod-ui",
-    "stargazers_count": 1798,
+    "stargazers_count": 1810,
     "open_issues_count": 89,
-    "forks_count": 109
+    "forks_count": 110
   },
   {
     "full_name": "huozhi/vaso",
-    "stargazers_count": 187,
+    "stargazers_count": 188,
     "open_issues_count": 4,
     "forks_count": 2
   },
   {
     "full_name": "bradtraversy/design-resources-for-developers",
-    "stargazers_count": 62793,
-    "open_issues_count": 3,
-    "forks_count": 11826
+    "stargazers_count": 62845,
+    "open_issues_count": 0,
+    "forks_count": 11825
   },
   {
     "full_name": "theatre-js/theatre",
-    "stargazers_count": 11883,
+    "stargazers_count": 11887,
     "open_issues_count": 129,
     "forks_count": 383
   },
@@ -91,57 +103,57 @@
   },
   {
     "full_name": "danielpetho/fancy",
-    "stargazers_count": 2231,
+    "stargazers_count": 2242,
     "open_issues_count": 4,
-    "forks_count": 70
+    "forks_count": 72
   },
   {
     "full_name": "nabekou29/js-i18n.nvim",
     "stargazers_count": 45,
     "open_issues_count": 6,
-    "forks_count": 9
+    "forks_count": 10
   },
   {
     "full_name": "tpope/vim-dadbod",
-    "stargazers_count": 4102,
+    "stargazers_count": 4108,
     "open_issues_count": 48,
     "forks_count": 139
   },
   {
     "full_name": "mistweaverco/kulala.nvim",
-    "stargazers_count": 1477,
-    "open_issues_count": 7,
+    "stargazers_count": 1483,
+    "open_issues_count": 11,
     "forks_count": 65
   },
   {
     "full_name": "coollabsio/coolify",
-    "stargazers_count": 44448,
-    "open_issues_count": 609,
-    "forks_count": 2835
+    "stargazers_count": 44563,
+    "open_issues_count": 623,
+    "forks_count": 2849
   },
   {
     "full_name": "Dokploy/dokploy",
-    "stargazers_count": 23418,
-    "open_issues_count": 232,
-    "forks_count": 1306
+    "stargazers_count": 23864,
+    "open_issues_count": 228,
+    "forks_count": 1335
   },
   {
     "full_name": "jtroo/kanata",
-    "stargazers_count": 5676,
-    "open_issues_count": 109,
-    "forks_count": 213
+    "stargazers_count": 5696,
+    "open_issues_count": 108,
+    "forks_count": 215
   },
   {
     "full_name": "yetone/avante.nvim",
-    "stargazers_count": 15666,
-    "open_issues_count": 168,
-    "forks_count": 704
+    "stargazers_count": 15707,
+    "open_issues_count": 160,
+    "forks_count": 706
   },
   {
     "full_name": "dotenvx/dotenvx",
-    "stargazers_count": 4215,
+    "stargazers_count": 4309,
     "open_issues_count": 18,
-    "forks_count": 87
+    "forks_count": 89
   },
   {
     "full_name": "pomdtr/tweety",
@@ -157,26 +169,14 @@
   },
   {
     "full_name": "ichtrojan/cook",
-    "stargazers_count": 31,
+    "stargazers_count": 30,
     "open_issues_count": 0,
     "forks_count": 4
   },
   {
     "full_name": "lusionltd/WebGL-Scroll-Sync",
-    "stargazers_count": 274,
+    "stargazers_count": 275,
     "open_issues_count": 0,
     "forks_count": 8
-  },
-  {
-    "full_name": "bizarro/2024",
-    "stargazers_count": 74,
-    "open_issues_count": 0,
-    "forks_count": 7
-  },
-  {
-    "full_name": "microsoft/typescript-go",
-    "stargazers_count": 21802,
-    "open_issues_count": 147,
-    "forks_count": 687
   }
 ]
