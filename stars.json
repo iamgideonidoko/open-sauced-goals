@@ -1,14 +1,14 @@
 [
   {
     "full_name": "tsl0922/ttyd",
-    "stargazers_count": 9907,
+    "stargazers_count": 9918,
     "open_issues_count": 89,
     "forks_count": 1008
   },
   {
     "full_name": "software-mansion/TypeGPU",
-    "stargazers_count": 933,
-    "open_issues_count": 128,
+    "stargazers_count": 942,
+    "open_issues_count": 126,
     "forks_count": 22
   },
   {
@@ -19,45 +19,45 @@
   },
   {
     "full_name": "jesseduffield/lazygit",
-    "stargazers_count": 65049,
-    "open_issues_count": 791,
-    "forks_count": 2249
+    "stargazers_count": 65180,
+    "open_issues_count": 792,
+    "forks_count": 2252
   },
   {
     "full_name": "jesseduffield/lazydocker",
-    "stargazers_count": 46308,
+    "stargazers_count": 46386,
     "open_issues_count": 226,
-    "forks_count": 1455
+    "forks_count": 1457
   },
   {
     "full_name": "AmanVarshney01/create-better-t-stack",
-    "stargazers_count": 3637,
-    "open_issues_count": 79,
-    "forks_count": 175
+    "stargazers_count": 3647,
+    "open_issues_count": 78,
+    "forks_count": 179
   },
   {
     "full_name": "Ali-Hussein-dev/formcn",
-    "stargazers_count": 204,
-    "open_issues_count": 1,
+    "stargazers_count": 208,
+    "open_issues_count": 2,
     "forks_count": 21
   },
   {
     "full_name": "Effect-TS/effect",
-    "stargazers_count": 11300,
+    "stargazers_count": 11333,
     "open_issues_count": 364,
-    "forks_count": 395
+    "forks_count": 396
   },
   {
     "full_name": "callstack/rock",
-    "stargazers_count": 586,
-    "open_issues_count": 56,
-    "forks_count": 26
+    "stargazers_count": 587,
+    "open_issues_count": 49,
+    "forks_count": 28
   },
   {
     "full_name": "47ng/nuqs",
-    "stargazers_count": 8708,
+    "stargazers_count": 8777,
     "open_issues_count": 40,
-    "forks_count": 204
+    "forks_count": 205
   },
   {
     "full_name": "darkroomengineering/satus",
@@ -67,25 +67,25 @@
   },
   {
     "full_name": "zumerlab/snapdom",
-    "stargazers_count": 6142,
+    "stargazers_count": 6177,
     "open_issues_count": 19,
-    "forks_count": 195
+    "forks_count": 196
   },
   {
     "full_name": "better-auth/better-auth",
-    "stargazers_count": 20763,
+    "stargazers_count": 20880,
     "open_issues_count": 609,
-    "forks_count": 1601
+    "forks_count": 1618
   },
   {
     "full_name": "j0hnm4r5/awesome-creative-technology",
     "stargazers_count": 534,
-    "open_issues_count": 5,
+    "open_issues_count": 4,
     "forks_count": 38
   },
   {
     "full_name": "Shopify/gltf-compressor",
-    "stargazers_count": 302,
+    "stargazers_count": 303,
     "open_issues_count": 1,
     "forks_count": 10
   },
@@ -97,31 +97,31 @@
   },
   {
     "full_name": "tamagui/tamagui",
-    "stargazers_count": 13140,
-    "open_issues_count": 175,
-    "forks_count": 575
+    "stargazers_count": 13154,
+    "open_issues_count": 176,
+    "forks_count": 577
   },
   {
     "full_name": "kristijanhusak/vim-dadbod-ui",
-    "stargazers_count": 1839,
+    "stargazers_count": 1840,
     "open_issues_count": 90,
     "forks_count": 110
   },
   {
     "full_name": "huozhi/vaso",
-    "stargazers_count": 204,
+    "stargazers_count": 209,
     "open_issues_count": 4,
     "forks_count": 2
   },
   {
     "full_name": "bradtraversy/design-resources-for-developers",
-    "stargazers_count": 63194,
+    "stargazers_count": 63220,
     "open_issues_count": 1,
-    "forks_count": 11854
+    "forks_count": 11858
   },
   {
     "full_name": "theatre-js/theatre",
-    "stargazers_count": 11969,
+    "stargazers_count": 11970,
     "open_issues_count": 129,
     "forks_count": 387
   },
@@ -133,9 +133,9 @@
   },
   {
     "full_name": "danielpetho/fancy",
-    "stargazers_count": 2351,
+    "stargazers_count": 2363,
     "open_issues_count": 5,
-    "forks_count": 76
+    "forks_count": 78
   },
   {
     "full_name": "nabekou29/js-i18n.nvim",
@@ -145,38 +145,38 @@
   },
   {
     "full_name": "tpope/vim-dadbod",
-    "stargazers_count": 4158,
+    "stargazers_count": 4165,
     "open_issues_count": 51,
     "forks_count": 142
   },
   {
     "full_name": "mistweaverco/kulala.nvim",
-    "stargazers_count": 1628,
-    "open_issues_count": 7,
+    "stargazers_count": 1639,
+    "open_issues_count": 9,
     "forks_count": 68
   },
   {
     "full_name": "coollabsio/coolify",
-    "stargazers_count": 45373,
-    "open_issues_count": 688,
-    "forks_count": 2957
+    "stargazers_count": 45439,
+    "open_issues_count": 667,
+    "forks_count": 2962
   },
   {
     "full_name": "Dokploy/dokploy",
-    "stargazers_count": 24726,
-    "open_issues_count": 302,
-    "forks_count": 1415
+    "stargazers_count": 24811,
+    "open_issues_count": 322,
+    "forks_count": 1454
   },
   {
     "full_name": "jtroo/kanata",
-    "stargazers_count": 5821,
-    "open_issues_count": 108,
+    "stargazers_count": 5831,
+    "open_issues_count": 107,
     "forks_count": 220
   },
   {
     "full_name": "yetone/avante.nvim",
-    "stargazers_count": 15962,
+    "stargazers_count": 15979,
     "open_issues_count": 127,
-    "forks_count": 719
+    "forks_count": 721
   }
 ]
